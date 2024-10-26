@@ -1,8 +1,8 @@
-👋 Hello! I’m Abdel
+# 👋 Hello! I’m Abdel
 
 I'm a Frontend Web Developer with a passion for creating responsive, user-friendly web applications using React and Next.js. My goal is to deliver seamless user experiences across all devices by leveraging modern frontend technologies and design practices.
 
-🛠️ My Tech Stack:
+### 🛠️ My Tech Stack:
 
 - **Frontend Frameworks:** React, Next.js
 
@@ -16,7 +16,7 @@ I'm a Frontend Web Developer with a passion for creating responsive, user-friend
 
 - **Other:** Responsive Design, Accessibility, SEO Best Practices
 
-🌐 What I Do:
+### 🌐 What I Do:
 
 - **Responsive Web Apps:** I create adaptable and performant web applications, ensuring they look and function flawlessly on any screen size.
 
@@ -24,13 +24,13 @@ I'm a Frontend Web Developer with a passion for creating responsive, user-friend
 
 - **Accessibility and UX:** Every project prioritizes inclusivity and user experience, with accessibility standards at the forefront.
 
-📌 Featured Projects:
+### 📌 Featured Projects:
 
 - **Portfolio Website**
 
   Responsive portfolio built with Next.js and Sass, showcasing my expertise and projects. https://abdelbarka.com/
 
-📫 Connect with Me:
+### 📫 Connect with Me:
 
 **LinkedIn:** https://www.linkedin.com/in/abdessalam-barka
 
